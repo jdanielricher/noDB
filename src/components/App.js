@@ -7,6 +7,7 @@ import './navbar/Nav.css'
 import './footer/Footer.css'
 import Task from './Tasks/Task'
 import AddTask from './Tasks/AddTask'
+import '../Things/Thing'
 
 class App extends Component {
   constructor() {

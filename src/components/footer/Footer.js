@@ -1,19 +1,16 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 
-class Footer extends Component {
+function Footer() {
+  return (
+    <div>
+      <footer>
+        <p>JDaniel Richer, Copyright &copy; 2018 DevMountain</p>
+      </footer>
+    </div>
+  );
 
-  render() {
-
-    return (
-      <div>
-        <footer>
-          <p>JDaniel Richer, Copyright &copy; 2018 DevMountain</p>
-        </footer>
-      </div>
-    );
-
-  }
 }
+
 
 export default Footer;
