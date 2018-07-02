@@ -1,0 +1,13 @@
+footer{
+    padding:20px;
+    margin-top:10px;
+    color:#ffffff;
+    background-color:#0079BF;
+    text-align: center;
+    height: 40%;
+  }
+  div>footer{
+    height: 50%;
+    
+  }
+  
